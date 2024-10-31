@@ -10,7 +10,7 @@
 
 🎨 Let's collaborate and transform your ideas into captivating digital experiences! Feel free to explore my repositories and reach out—I'm always up for new challenges and exciting opportunities.
 
-- 🔭 I’m currently working on [MeccaTech](www.flivian.site)
+- 🔭 I’m currently working on [ModiLogx Solutions](www.flivian.site)
 
 - 🌱 I’m currently learning **Tailwind, React**
 
