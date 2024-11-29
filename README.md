@@ -2,7 +2,7 @@
 ### Hi there 👋, 👋 Hey there! I'm Flivian Mwirigi, a passionate Fullstack Developer hailing from the picturesque landscapes of Meru, Kenya🌍 
 ####  With a knack for crafting immersive digital experiences, I'm on a mission to blend creativity with functionality.
 
-🚀 As a seasoned Frontend Developer, I thrive on turning visions into reality through pixel-perfect designs and seamless user interactions. With a keen eye for detail and a commitment to excellence, I specialize in bringing ideas to life using the latest web technologies and best practices.
+🚀 As a seasoned Fulstack Developer, I thrive on turning visions into reality through pixel-perfect designs and seamless user interactions. With a keen eye for detail and a commitment to excellence, I specialize in bringing ideas to life using the latest web technologies and best practices.
 
 💻 Whether it's building responsive websites, optimizing user interfaces, or diving into the world of web accessibility, I'm dedicated to delivering solutions that not only meet but exceed expectations.
 
