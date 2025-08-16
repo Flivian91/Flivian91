@@ -1,4 +1,3 @@
-![ With a knack for crafting immersive digital experiences, I'm on a mission to blend creativity with functionality.][[([https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2b6tYwgJepJjX_P6ihJdcO7fWvBQG2KM_Jr_bAd6ap0cMHFMIOFjWKKRO9VYL4DY0d74&usqp=CAU))](https://www.google.com/imgres?q=coding%20animated%20gif&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4%2F68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&tbnid=dbrfb5dvHO4gVM&vet=12ahUKEwj1-fikwo6PAxVyXEEAHZXPFYUQM3oECBoQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwj1-fikwo6PAxVyXEEAHZXPFYUQM3oECBoQAA)]
 ### Hi there 👋, 👋 Hey there! I'm Flivian Mwirigi, a passionate Fullstack Developer hailing from the picturesque landscapes of Meru, Kenya🌍 
 ####  With a knack for crafting immersive digital experiences, I'm on a mission to blend creativity with functionality.
 
@@ -12,13 +11,13 @@
 
 - 🔭 I’m currently working on [ModiLogx Solutions](www.flivian.site)
 
-- 🌱 I’m currently learning **Tailwind, React**
+- 🌱 I’m currently learning **Mobile App Development with React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Flivian91?tab=repositories](https://github.com/Flivian91?tab=repositories)
 
 - 📝 I regularly write articles on [www.flivian.site/blog/home](www.flivian.site/blog/home)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript, python and Tech**
 
 - 📫 How to reach me **www.flivian.site**
 
